@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>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</data>
+			<key>IgnoreManifestScope</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Music TagWeb</string>
+			<key>PayloadDescription</key>
+			<string>Configuration Payload description</string>
+			<key>PayloadDisplayName</key>
+			<string>PakePayload</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-46B76FD70F8A</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E0736409-C08F-4F54-86DA-46B76FD70F8A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>https://tag.liyh.top:6443</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>PakePlus-iOS-musictagweb</string>
+	<key>PayloadIdentifier</key>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-46B76FD70F8A</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-46B76FD70F8A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
